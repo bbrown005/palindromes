@@ -1,0 +1,25 @@
+# Binaries
+/bin/
+*.exe
+*.out
+*.test
+
+# Coverage and profiling
+coverage.out
+*.prof
+
+# Environment and secrets
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data
+/data/
+/tmp/
