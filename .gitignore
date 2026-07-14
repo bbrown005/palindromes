@@ -3,6 +3,11 @@
 *.exe
 *.out
 *.test
+palindromes
+*.exe~
+*.dll
+*.so
+*.dylib
 
 # Coverage and profiling
 coverage.out
